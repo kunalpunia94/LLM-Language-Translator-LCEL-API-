@@ -30,8 +30,8 @@ Follow these steps to get the application running on your local machine.
 First, clone this repository to your local machine using Git.
 
 ```bash
-git clone https://github.com/your-username/LangServe-Groq-Translator.git
-cd LangServe-Groq-Translator
+git clone https://github.com/your-username/LLM-Language-Translator-LCEL-API-.git
+cd LLM-Language-Translator-LCEL-API-
 ```
 
 ### 2. Create and Activate a Virtual Environment
