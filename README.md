@@ -10,6 +10,10 @@ The application demonstrates a robust architecture for deploying and interacting
 
 A visual representation of the app's user interface is provided below. You can replace this placeholder with a screenshot of your running application.
 
+![App Screenshot](assets/output1.jpeg)
+
+![App Screenshot](assets/output2.jpeg)
+
 ---
 
 ## ✨ Features
